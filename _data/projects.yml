@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# 3D Maze
+- project: 3D Java Maze
+  role: Sole Developer
+  duration: November 2018
+  url: "https://github.com/ab1manyu/java3DMaze"
+  description: Utilized Java's Abstract Window Toolkit library to develop a maze game. This started off as a simple 2D maze modeled from a text file of o's and spaces. I then used AWT to draw polygons in a way that the maze looked "3D" using perspective and filling.
+
+# Android Weather App
+- project: Android Weather App
+  role: Sole Developer
+  duration: January 2018 
+  url: "https://github.com/ab1manyu/androidWeatherApp"
+  description: I've used the OpenWeather API to create a weather forecast application for Android devices. This project taught me a lot about using REST APIs; how sending requests and displaying information works. In addition, it shows the weather in 3 hour intervals and is Pokémon themed depending on the type of current weather.
